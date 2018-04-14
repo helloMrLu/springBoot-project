@@ -14,7 +14,8 @@ spring:
     show-sql: true
   jackson:
     default-property-inclusion: non-null
-
-
+  redis:
+    host: 192.168.110.54
+    port: 6379
     
     
